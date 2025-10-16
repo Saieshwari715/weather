@@ -27,3 +27,5 @@ git clone https://github.com/yourusername/weather-app.git
 ->Open index.html in a web browser.
 
 ->Enter a city name and click Get Weather.
+<img width="1002" height="755" alt="image" src="https://github.com/user-attachments/assets/64466794-7c02-470c-b0a6-e5abb5d0bad5" />
+
